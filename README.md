@@ -1,20 +1,19 @@
 # Student-Management-System-
 # 3yr_Group_3-Python-project
 This repositery contains a student registry python program that is capable of perfroming the following:
-"1. Registration ")   
- 2. search student based on id number") 
- 3. update student name based on id")
- 4. update student CGPA based on id")
- 5. count total students in the system")
- 6. count male and female numbers in the system")
- 7. delete student from the system based on id")
- 8. Top scorer students from each department")
- 9. Top female scorer students from each department")
- 10. search number of students based on gpa or gpa threshold")
- 11. frequency of student names in the file")
- 12. Number of students in each department")
- 13. Display all students information")    
- 14. delete all data")
+ Registration 
+ search student based on id number") 
+ update student name based on id")
+ update student CGPA based on id")
+ count total students in the system")
+ count male and female numbers in the system
+ delete student from the system based on id Top scorer students from each department")
+Top female scorer students from each department")
+search number of students based on gpa or gpa threshold")
+frequency of student names in the file")
+ Number of students in each department")
+Display all students information")    
+ delete all data")
   0. Exit\n")
 Small guideline on how to use the program:
 1. Run the program.
